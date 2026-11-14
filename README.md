@@ -1,6 +1,6 @@
 # Awesome-Employee-Self-Service-Internal-Helpdesk
 
-# Top Employee Self-Service & Internal Helpdesk Ecosystem
+## Top Employee Self-Service & Internal Helpdesk Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on HR Service Delivery, Employee Ticketing & Knowledge-Powered Self-Service*  
