@@ -15,23 +15,28 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global employee self-service (ESS) and internal helpdesk software market is estimated at approximately **$6.4B to $9.8B** (scaling upward to **$14B–$26B** when factoring in adjacent enterprise IT service desk suites), expanding at a CAGR of 8.5%–11%. The sector is **moderately to highly fragmented** rather than winner-take-all: while enterprise giants (like ServiceNow and Workday) capture large enterprise core deployments, organizations frequently operate multi-vendor stacks where mid-market suites, agile AI-native ticketing disrupters (like Freshworks and Rippling), and specialized HR portals coexist.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[ServiceNow Employee Center](https://www.servicenow.com/)** | Enterprise service management portal unifying IT, HR, legal, finance, and workplace services. **Enterprise Service Management Foundation** (May 2026) delivers multi-department services within weeks for mid-size organizations . North America held 42.31% of the employee helpdesk market in 2025; ServiceNow targets $30B+ subscription revenue by 2030 with AI exceeding 30% of ACV . | Quote-only (enterprise contract) | No free tier; demo via sales |
-| **[Freshworks Employee Center (Freshservice)](https://www.freshworks.com/)** | AI-first service delivery with employee portal, knowledge base, and ticketing. **Freshservice from $19/agent/month**. Freshworks expanded AI-first HR service delivery in 2026 for faster, lower-complexity adoption . | From **$19/agent/month** | Free trial available; no permanent free tier |
-| **[Workday Employee Self Service](https://www.workday.com/)** | Enterprise HCM with comprehensive ESS for pay, benefits, time, and personal data. FSE-based pricing model weights worker types—count overages of 8–18% above clean census are common. | Quote-only (FSE-based enterprise contract) | No free tier; demo via sales |
-| **[BambooHR](https://www.bamboohr.com/)** | SMB-focused HRIS with self-service, time-off tracking, and document storage. Core: **$10/employee/month**; Pro: $17; Elite: $25. Month-to-month available with automatic volume discounts. | Core: **$10/employee/month**; Pro: $17; Elite: $25 | No free tier; demo via sales |
-| **[Rippling](https://www.rippling.com/)** | Unified HR, payroll, benefits, devices, and apps. **Starting at $8/user/month**; modular pricing means you pay for what you enable. | **$8/user/month** (base) | No free tier; demo via sales |
-| **[Personio](https://www.personio.com/)** | European HRIS with ESS for SMBs. Core tier several dollars PEPM; 15–30% discounts achievable for 100–200 employees with multi-year terms. | Quote-only (Core/Professional/Enterprise) | No free tier; demo via sales |
-| **[UKG Pro](https://www.ukg.com/)** | Enterprise HCM with ESS, payroll, and workforce management. Positioned for mid-market and enterprise organizations. | Quote-only (enterprise contract) | No free tier; demo via sales |
-| **[Paylocity](https://www.paylocity.com/)** | Mid-market HCM with ESS, payroll, and time tracking. Typical PEPM mid-teens to low twenties for 200–500 employees. Implementation $5K–$40K. | Quote-only (mid-teens to low-$20s PEPM) | No free tier; demo via sales |
+| Product | Scale (Valuation / Revenue) | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+|---------|-----------------------------|-------------|-------------------------|--------------------------|
+| **[ServiceNow Employee Center](https://www.servicenow.com/)** | **~$104B–$159B Market Cap** (~$13.3B–$15.4B TTM revenue) | Enterprise service management portal unifying IT, HR, legal, finance, and workplace services. North America held 42.31% of the employee helpdesk market in 2025; targets $30B+ subscription revenue by 2030 with AI exceeding 30% of ACV. | From **$70/fulfiller/month** (Foundation tier; ~$10k–$20k/yr min contract) | No free tier; demo & guided test drives via sales only (no self-serve free trial) |
+| **[Workday Employee Self Service](https://www.workday.com/)** | **~$46B–$51B Market Cap** (~$10.15B TTM revenue) | Enterprise HCM with comprehensive ESS for pay, benefits, time, and personal data. FSE-based pricing model weights worker types—count overages of 8–18% above clean census are common. | From **$35–$100/employee/year** (~$3–$8.33/emp/mo; typical $100k/yr min contract) | No free tier; interactive online video tours & custom demo via sales only (no self-serve free trial) |
+| **[UKG Pro](https://www.ukg.com/)** | **~$22B Valuation** (~$4.5B–$4.7B annual revenue) | Enterprise HCM with ESS, payroll, and workforce management. Positioned for mid-market and enterprise organizations. | From **$26/employee/month** (core UKG Pro tier; PEPM model) | No free tier; interactive test environments & guided sales demo only (no self-serve free trial) |
+| **[Rippling](https://www.rippling.com/)** | **~$16.8B Valuation** (~$1.0B ARR) | Unified HR, payroll, benefits, devices, and apps. Modular pricing means you pay for what you enable. | From **$8/user/month** (base platform fee plus selected app add-ons) | No free tier; customized sales demo required (occasional 14-day trials limited to select IT/device modules) |
+| **[Paylocity](https://www.paylocity.com/)** | **~$9.3B–$10.0B Market Cap** (~$1.77B annual revenue) | Mid-market HCM with ESS, payroll, and time tracking. Typical comprehensive mid-market implementations average $22–$32 PEPM. | From **$2–$5/employee/month** (base core setup; typical bundles start ~$200/mo base) | No free tier; interactive self-paced web tours & guided sales demo only (no self-serve free trial) |
+| **[Personio](https://www.personio.com/)** | **~$8.5B Valuation** (~$350M–$435M annual revenue) | European HRIS with ESS for SMBs. Core tier several dollars PEPM; 15–30% discounts achievable for 100–200 employees with multi-year terms. | From **€7.60 (~$8.00)/employee/month** (Core plan, 12-month annual commitment) | **14-day free trial** with sample data and demo employees (caps: max 3 e-signatures, 50 survey participants, outbound emails disabled; no credit card required) |
+| **[Freshworks Employee Center (Freshservice)](https://www.freshworks.com/)** | **~$3.15B–$3.5B Market Cap** (~$904M TTM revenue) | AI-first service delivery with employee portal, knowledge base, and ticketing. Freshworks expanded AI-first HR service delivery in 2026 for faster, lower-complexity adoption. | From **$19/agent/month** (Starter tier, billed annually) | **14-day free trial** (full unrestricted access to features, no credit card required; no permanent free tier) |
+| **[BambooHR](https://www.bamboohr.com/)** | **Est. ~$274M–$358M Annual Revenue** (PE-backed private) | SMB-focused HRIS with self-service, time-off tracking, and document storage. Month-to-month available with automatic volume discounts. | From **$10/employee/month** (Core package; Pro: $17, Elite: $25) | **7-day free trial** (full platform access with sample employee data, no credit card required; no permanent free tier) |
 
 ## Open-Source GitHub Projects
 
