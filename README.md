@@ -77,7 +77,7 @@ Open-source and self-hosted tools provide data sovereignty, customization flexib
 
 ### 🏆 Top Ranked Open-Source Platforms
 
-| Project | Star Badge | Description | Primary Technology |
+| Project | Stars_Badge | Description | Primary Technology |
 |---------|------------|-------------|-------------------|
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | **Open-source customer and internal employee engagement suite.** Provides real-time live chat, ticketing, shared inboxes, and internal team collaboration channels with mobile support and native integrations. | Ruby on Rails, Vue.js |
 | **[ERPNext HRMS](https://github.com/frappe/hrms)** | [![Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) | **Comprehensive open-source HRMS and employee self-service portal.** Offers dedicated modules for employee onboarding, leave management, payroll, expense claims, attendance tracking, and employee helpdesk tickets. | Python, Frappe Framework, JS |
@@ -113,7 +113,7 @@ Contributions are warmly welcome! If you know of an awesome SaaS platform or ope
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-tool`).
-3. 📝 Add your entry into `README.md` maintaining table formats, valid star badges, and factual descriptions.
+3. 📝 Add your entry into `README.md` maintaining table formats, valid Stars_Badges, and factual descriptions.
 4. 🚀 Push your branch and open a Pull Request.
 
 ---
